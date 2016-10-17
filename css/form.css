@@ -1,0 +1,37 @@
+
+h2{
+  text-align:center;
+color: #6e0000;
+  font-weight: bold;
+  font-family:'Rancho', Georgia, serif;
+
+}
+h4{
+  text-align:center;
+  font-weight: bold;
+  font-family:'Rancho', Georgia, serif;
+}
+p{
+text-align: center;
+font-family: 'Reem Kufi', sans-serif;
+}
+.jumbotron{
+  height:80%;
+  width:60%;
+
+}
+.centerfy{
+               text-align: center;
+           }
+input {
+    width: 200px;
+    height: 40px;
+    background-color:#6e0000;
+    color:white;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 2;
+}
